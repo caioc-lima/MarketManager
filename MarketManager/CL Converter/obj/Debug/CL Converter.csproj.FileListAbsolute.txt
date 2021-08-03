@@ -1,0 +1,34 @@
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\CL Converter.exe.config
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\CL Converter.exe
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\CL Converter.pdb
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\MetroFramework.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\obj\Debug\CL Converter.csproj.AssemblyReference.cache
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\obj\Debug\CL_Converter.Form1.resources
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\obj\Debug\CL_Converter.Properties.Resources.resources
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\obj\Debug\CL Converter.csproj.GenerateResource.cache
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\obj\Debug\CL Converter.csproj.CoreCompileInputs.cache
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\obj\Debug\CL Converter.csproj.CopyComplete
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\obj\Debug\CL Converter.exe
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\obj\Debug\CL Converter.pdb
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\obj\Debug\CL_Converter.Produtos.resources
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\x86\sqlite3.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\x64\sqlite3.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\System.Buffers.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\System.Memory.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\System.Buffers.xml
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\System.Memory.xml
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\EntityFramework.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\EntityFramework.xml
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Lima\Desktop\CL Converter\CL Converter\CL Converter\obj\Debug\CL_Converter.Clientes.resources

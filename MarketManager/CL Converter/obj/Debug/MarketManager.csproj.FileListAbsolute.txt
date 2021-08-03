@@ -1,0 +1,73 @@
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\x86\sqlite3.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\x64\sqlite3.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\MarketManager.exe.config
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\MarketManager.exe
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\MarketManager.pdb
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\EntityFramework.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\MetroFramework.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\System.Buffers.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\System.Memory.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\EntityFramework.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\System.Buffers.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\System.Memory.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\obj\Debug\MarketManager.csproj.AssemblyReference.cache
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\obj\Debug\MarketManager.Clientes.resources
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\obj\Debug\MarketManager.Form1.resources
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\obj\Debug\MarketManager.Produtos.resources
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\obj\Debug\MarketManager.Properties.Resources.resources
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\obj\Debug\MarketManager.csproj.GenerateResource.cache
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\obj\Debug\MarketManager.csproj.CoreCompileInputs.cache
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\obj\Debug\MarketManager.csproj.CopyComplete
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\obj\Debug\MarketManager.exe
+C:\Users\Lima\Desktop\MarketManager\MarketManager\MarketManager\obj\Debug\MarketManager.pdb
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\x86\sqlite3.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\x64\sqlite3.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\MarketManager.exe.config
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\MarketManager.exe
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\MarketManager.pdb
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\EntityFramework.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\MetroFramework.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\System.Buffers.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\System.Memory.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\EntityFramework.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\System.Buffers.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\System.Memory.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.Clientes.resources
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.Produtos.resources
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.Properties.Resources.resources
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.csproj.GenerateResource.cache
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.csproj.CoreCompileInputs.cache
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.csproj.CopyComplete
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.exe
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.pdb
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.Home.resources
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.Form1.resources
+C:\Users\LIMA\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.RELATORIO.resources
+C:\Users\LIMA\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.VENDAS.resources
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.PROVEDORES.resources
+C:\Users\Lima\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.COMPRAS.resources
+C:\Users\LIMA\Desktop\MarketManager\MarketManager\CL Converter\obj\Debug\MarketManager.csprojAssemblyReference.cache
