@@ -29,10 +29,10 @@ namespace MarketManager
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             this.BTN_CANCELAR_COMPRA = new System.Windows.Forms.Button();
             this.BTN_EXCLUIR_ITEM = new System.Windows.Forms.Button();
             this.BTN_FINALIZAR_COMPRA = new System.Windows.Forms.Button();
@@ -161,22 +161,22 @@ namespace MarketManager
             this.TABLE_NEW_VENDA.AllowUserToDeleteRows = false;
             this.TABLE_NEW_VENDA.AllowUserToResizeColumns = false;
             this.TABLE_NEW_VENDA.AllowUserToResizeRows = false;
-            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(248)))), ((int)(((byte)(249)))));
-            this.TABLE_NEW_VENDA.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(248)))), ((int)(((byte)(249)))));
+            this.TABLE_NEW_VENDA.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.TABLE_NEW_VENDA.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.TABLE_NEW_VENDA.BackgroundColor = System.Drawing.Color.White;
             this.TABLE_NEW_VENDA.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.TABLE_NEW_VENDA.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
             this.TABLE_NEW_VENDA.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.Disable;
             this.TABLE_NEW_VENDA.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("Century Gothic", 8F);
-            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.TABLE_NEW_VENDA.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Century Gothic", 8F);
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.TABLE_NEW_VENDA.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.TABLE_NEW_VENDA.ColumnHeadersHeight = 25;
             this.TABLE_NEW_VENDA.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.TABLE_NEW_VENDA.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -184,14 +184,14 @@ namespace MarketManager
             this.B,
             this.D});
             this.TABLE_NEW_VENDA.Cursor = System.Windows.Forms.Cursors.Hand;
-            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle7.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.TABLE_NEW_VENDA.DefaultCellStyle = dataGridViewCellStyle7;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.TABLE_NEW_VENDA.DefaultCellStyle = dataGridViewCellStyle3;
             this.TABLE_NEW_VENDA.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
             this.TABLE_NEW_VENDA.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
             this.TABLE_NEW_VENDA.Location = new System.Drawing.Point(40, 135);
@@ -199,13 +199,13 @@ namespace MarketManager
             this.TABLE_NEW_VENDA.MultiSelect = false;
             this.TABLE_NEW_VENDA.Name = "TABLE_NEW_VENDA";
             this.TABLE_NEW_VENDA.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle8.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.TABLE_NEW_VENDA.RowHeadersDefaultCellStyle = dataGridViewCellStyle8;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.TABLE_NEW_VENDA.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.TABLE_NEW_VENDA.RowHeadersVisible = false;
             this.TABLE_NEW_VENDA.RowHeadersWidth = 120;
             this.TABLE_NEW_VENDA.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
@@ -217,6 +217,7 @@ namespace MarketManager
             this.TABLE_NEW_VENDA.Size = new System.Drawing.Size(539, 575);
             this.TABLE_NEW_VENDA.TabIndex = 22;
             this.TABLE_NEW_VENDA.Visible = false;
+            this.TABLE_NEW_VENDA.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.TABLE_NEW_VENDA_CellContentClick);
             // 
             // A
             // 
@@ -319,7 +320,7 @@ namespace MarketManager
             this.PANEL_FINALIZAR_COMPRA.Controls.Add(this.LABEL_T_PAGAR);
             this.PANEL_FINALIZAR_COMPRA.Controls.Add(this.LABEL_N_ITENS);
             this.PANEL_FINALIZAR_COMPRA.Controls.Add(this.LABEL_TITTLE_FINALZIAR_COMPRA);
-            this.PANEL_FINALIZAR_COMPRA.Location = new System.Drawing.Point(196, 57);
+            this.PANEL_FINALIZAR_COMPRA.Location = new System.Drawing.Point(584, 60);
             this.PANEL_FINALIZAR_COMPRA.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.PANEL_FINALIZAR_COMPRA.Name = "PANEL_FINALIZAR_COMPRA";
             this.PANEL_FINALIZAR_COMPRA.Size = new System.Drawing.Size(901, 622);

@@ -405,5 +405,10 @@ namespace MarketManager
             }
             con.Close();
         }
+
+        private void TABLE_NEW_VENDA_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
